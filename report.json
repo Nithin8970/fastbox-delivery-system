@@ -1,0 +1,81 @@
+{
+    "A1": {
+        "packages_delivered": 2,
+        "total_distance": 121.21,
+        "efficiency": 60.61
+    },
+    "A2": {
+        "packages_delivered": 2,
+        "total_distance": 79.21,
+        "efficiency": 39.6
+    },
+    "A3": {
+        "packages_delivered": 1,
+        "total_distance": 14.14,
+        "efficiency": 14.14
+    },
+    "best_agent": "A3",
+    "route_details": {
+        "A1": [
+            {
+                "package_id": "P1",
+                "warehouse": "W1",
+                "destination": [
+                    30,
+                    40
+                ],
+                "distance_to_warehouse": 7.07,
+                "distance_warehouse_to_destination": 50.0,
+                "total_package_distance": 57.07
+            },
+            {
+                "package_id": "P4",
+                "warehouse": "W1",
+                "destination": [
+                    10,
+                    10
+                ],
+                "distance_to_warehouse": 50.0,
+                "distance_warehouse_to_destination": 14.14,
+                "total_package_distance": 64.14
+            }
+        ],
+        "A2": [
+            {
+                "package_id": "P2",
+                "warehouse": "W2",
+                "destination": [
+                    70,
+                    90
+                ],
+                "distance_to_warehouse": 18.03,
+                "distance_warehouse_to_destination": 25.0,
+                "total_package_distance": 43.03
+            },
+            {
+                "package_id": "P5",
+                "warehouse": "W2",
+                "destination": [
+                    40,
+                    80
+                ],
+                "distance_to_warehouse": 25.0,
+                "distance_warehouse_to_destination": 11.18,
+                "total_package_distance": 36.18
+            }
+        ],
+        "A3": [
+            {
+                "package_id": "P3",
+                "warehouse": "W3",
+                "destination": [
+                    105,
+                    20
+                ],
+                "distance_to_warehouse": 7.07,
+                "distance_warehouse_to_destination": 7.07,
+                "total_package_distance": 14.14
+            }
+        ]
+    }
+}

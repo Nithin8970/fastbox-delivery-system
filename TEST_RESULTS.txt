@@ -1,0 +1,10 @@
+test_case_1.json: PASS | agents=4 | best_agent=A1
+test_case_10.json: PASS | agents=4 | best_agent=A4
+test_case_2.json: PASS | agents=3 | best_agent=A1
+test_case_3.json: PASS | agents=4 | best_agent=A3
+test_case_4.json: PASS | agents=5 | best_agent=A3
+test_case_5.json: PASS | agents=5 | best_agent=A3
+test_case_6.json: PASS | agents=4 | best_agent=A3
+test_case_7.json: PASS | agents=4 | best_agent=A3
+test_case_8.json: PASS | agents=4 | best_agent=A1
+test_case_9.json: PASS | agents=4 | best_agent=A3
